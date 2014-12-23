@@ -1,0 +1,4 @@
+name: HorseHerf
+version: 1.0
+main: uk.co.ElllzUHC.HorseNerf.HorseNerfPlugin
+depend: [ScenarioManager]
